@@ -1,0 +1,7 @@
+name = ajax_form
+description = Ajax Form 
+core = 7.x
+package = 
+php = 
+version =
+dependencies[] = 

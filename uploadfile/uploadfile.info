@@ -1,0 +1,7 @@
+name = uploadfile
+description = Upload File Demo
+core = 7.x
+package = 
+php = 
+version =
+dependencies[] = 
